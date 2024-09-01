@@ -1,3 +1,8 @@
+# LebronOS
+LebronOS is a Unix-style kernel developed as part of my operating systems course. It features all basic kernel functionalities, including system calls, interrupt handlers, terminal switching, round-robin scheduling, paging, a file system, and even fun Lebron-themed features for extra credit in the design competition. At the conclusion of the project it could run 6 concurrent user programs over 3 different terminals, but could probably be pushed to do a bit more than that.
+
+As this was developed as a class project, and took many many hours and years off of my life, I'm including the academic integrity policy below. I **DO NOT** consent to anyone copying or 'taking inspiration' from this repository.
+
 ACADEMIC INTEGRITY
 -----
 Please review the University of Illinois Student Code before starting,
@@ -68,4 +73,4 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE SOFTWARE
 PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND NEITHER THE AUTHOR NOR
 THE UNIVERSITY OF ILLINOIS HAS ANY OBLIGATION TO PROVIDE MAINTENANCE,
 SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS."
-# LebronOS
+
